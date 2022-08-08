@@ -15,6 +15,4 @@ And run : `ngrok`
 
 # Manifest
 
-ES: este repositorio es codigo libre, puedes usarlo sin ningun problema.
-
-EN: this repository is free code, you can use it without any problem.
+For termux
